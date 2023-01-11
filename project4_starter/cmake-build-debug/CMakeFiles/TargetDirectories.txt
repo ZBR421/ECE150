@@ -1,0 +1,3 @@
+/Users/boran/Desktop/project4_starter/cmake-build-debug/CMakeFiles/project4_starter.dir
+/Users/boran/Desktop/project4_starter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/boran/Desktop/project4_starter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
